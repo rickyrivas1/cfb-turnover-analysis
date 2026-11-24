@@ -43,6 +43,29 @@ The program generates:
 - A bar chart of the 20 teams with the highest turnover rates.
 - A CSV containing the combined team statistics.
 
+
+## Visualizations
+
+### Turnovers Lost vs. Winning Percentage
+
+This scatterplot examines the relationship between
+turnovers lost per game and team winning percentage
+during the 2026 college football season.
+
+![Turnovers vs Winning Percentage](turnovers_vs_winning.png)
+
+### Top 20 Teams by Turnovers Lost
+
+This chart shows the 20 FBS teams with the highest
+turnovers lost per game, alongside their win-loss records.
+
+![Top 20 Turnover Teams](top_20_turnovers.png)
+
+### Dataset
+
+[View the Complete Dataset](cfb_2026_analysis.csv)
+
+
 ### Findings
 
 Add the actual correlation coefficient, number of teams analyzed, and interpretation after verifying the output.
